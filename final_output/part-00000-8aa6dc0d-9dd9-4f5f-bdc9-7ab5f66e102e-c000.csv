@@ -1,0 +1,21 @@
+tconst,titleType,primaryTitle,originalTitle,averageRating,numVotes,score,rank,ordering,nconst,category,job,characters
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,10,nm0002354,composer,\N,\N
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,1,nm0000158,actor,\N,"[\"Captain Miller\"]"
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,8,nm0330428,producer,producer,\N
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,6,nm0734441,writer,written by,\N
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,4,nm0122653,actor,\N,"[\"Private Reiben\"]"
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,3,nm0001744,actor,\N,"[\"Sergeant Horvath\"]"
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,9,nm0506013,producer,producer,\N
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,2,nm0000354,actor,\N,"[\"Private Ryan\"]"
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,5,nm0000229,director,\N,\N
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,8.6,1333261,1.14660446E7,20,7,nm0117290,producer,producer,\N
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,10,nm0858799,producer,producer,\N
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,5,nm0634240,director,\N,\N
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,8,nm0004170,writer,characters,\N
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,4,nm0000198,actor,\N,"[\"Commissioner Gordon\"]"
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,3,nm0004266,actress,\N,"[\"Selina\"]"
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,7,nm0275286,writer,story,\N
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,2,nm0362766,actor,\N,"[\"Bane\"]"
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,9,nm0746273,producer,producer,\N
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,1,nm0000288,actor,\N,"[\"Bruce Wayne\"]"
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,8.4,1628619,1.3680399600000001E7,13,6,nm0634300,writer,screenplay,\N

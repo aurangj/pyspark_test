@@ -1,0 +1,21 @@
+tconst,titleType,primaryTitle,originalTitle,averageRating,numVotes,score,rank,ordering,nconst,category,job,characters
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,5,nm0000229,director,\N,\N
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,9,nm0596520,producer,producer,\N
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,6,nm0447745,writer,book,\N
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,8,nm0527322,producer,producer,\N
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,7,nm0001873,writer,screenplay,\N
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,2,nm0000146,actor,\N,"[\"Amon Goeth\"]"
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,3,nm0001426,actor,\N,"[\"Itzhak Stern\"]"
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,1,nm0000553,actor,\N,"[\"Oskar Schindler\"]"
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,10,nm0002354,composer,\N,\N
+tt0108052,movie,Schindler's List,Schindler's List,9.0,1304236,1.1738124E7,18,4,nm0328751,actress,\N,"[\"Emilie Schindler\"]"
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,1,nm0000128,actor,\N,"[\"Maximus\"]"
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,3,nm0001567,actress,\N,"[\"Lucilla\"]"
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,5,nm0000631,director,\N,\N
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,8,nm0629933,writer,screenplay,\N
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,6,nm0291905,writer,story,\N
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,9,nm0527322,producer,producer,\N
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,7,nm0517589,writer,screenplay,\N
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,4,nm0001657,actor,\N,"[\"Proximo\"]"
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,2,nm0001618,actor,\N,"[\"Commodus\"]"
+tt0172495,movie,Gladiator,Gladiator,8.5,1440735,1.22462475E7,16,10,nm0926824,producer,producer,\N

@@ -1,0 +1,21 @@
+tconst,titleType,primaryTitle,originalTitle,averageRating,numVotes,score,rank,ordering,nconst,category,job,characters
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,10,nm0651614,producer,producer,\N
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,7,nm0909638,writer,screenplay,\N
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,5,nm0001392,director,\N,\N
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,9,nm8662749,producer,producer,\N
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,1,nm0000704,actor,\N,"[\"Frodo\"]"
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,8,nm0101991,writer,screenplay,\N
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,3,nm0005212,actor,\N,"[\"Gandalf\"]"
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,6,nm0866058,writer,"novel \"The Return of the King\"",\N
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,4,nm0089217,actor,\N,"[\"Legolas\"]"
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,9.0,1761443,1.5852987E7,10,2,nm0001557,actor,\N,"[\"Aragorn\"]"
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,9,nm0809059,editor,\N,\N
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,10,nm0245596,production_designer,\N,\N
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,5,nm0634240,director,\N,\N
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,7,nm0001877,composer,\N,\N
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,4,nm0913822,actor,\N,"[\"Saito\"]"
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,2,nm0330687,actor,\N,"[\"Arthur\"]"
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,6,nm0858799,producer,producer,\N
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,1,nm0000138,actor,\N,"[\"Cobb\"]"
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,3,nm0680983,actor,\N,"[\"Ariadne\"]"
+tt1375666,movie,Inception,Inception,8.8,2245402,1.97595376E7,3,8,nm0002892,cinematographer,director of photography,\N

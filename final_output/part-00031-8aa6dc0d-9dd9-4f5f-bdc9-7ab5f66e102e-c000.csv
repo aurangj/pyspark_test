@@ -1,0 +1,21 @@
+tconst,titleType,primaryTitle,originalTitle,averageRating,numVotes,score,rank,ordering,nconst,category,job,characters
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,7,nm0748665,producer,producer,\N
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,3,nm0001001,actor,\N,"[\"Sonny\"]"
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,5,nm0000338,director,\N,\N
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,2,nm0000199,actor,\N,"[\"Michael\"]"
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,8,nm0000065,composer,\N,\N
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,9,nm0932336,cinematographer,director of photography,\N
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,6,nm0701374,writer,screenplay by,\N
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,4,nm0000473,actress,\N,"[\"Kay Adams\"]"
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,10,nm0722000,editor,\N,\N
+tt0068646,movie,The Godfather,The Godfather,9.2,1760053,1.61924876E7,7,1,nm0000008,actor,\N,"[\"Don Vito Corleone\"]"
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,8,nm0782900,cinematographer,\N,\N
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,9,nm0579673,editor,\N,\N
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,7,nm0004744,producer,producer,\N
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,5,nm0000233,director,\N,\N
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,2,nm0000235,actress,\N,"[\"Mia Wallace\"]"
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,4,nm0000246,actor,\N,"[\"Butch Coolidge\"]"
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,10,nm0913300,production_designer,\N,\N
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,1,nm0000237,actor,\N,"[\"Vincent Vega\"]"
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,6,nm0000812,writer,stories by,\N
+tt0110912,movie,Pulp Fiction,Pulp Fiction,8.9,1965111,1.7489487900000002E7,5,3,nm0000168,actor,\N,"[\"Jules Winnfield\"]"

@@ -1,0 +1,11 @@
+tconst,titleType,primaryTitle,originalTitle,averageRating,numVotes,score,rank,ordering,nconst,category,job,characters
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,2,nm0000323,actor,\N,"[\"Alfred\"]"
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,7,nm0275286,writer,story,\N
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,4,nm0000553,actor,\N,"[\"Ducard\"]"
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,9,nm0650038,producer,producer,\N
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,10,nm0746273,producer,producer,\N
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,6,nm0004170,writer,characters,\N
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,8,nm0290581,producer,producer,\N
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,1,nm0000288,actor,\N,"[\"Bruce Wayne\",\"Batman\"]"
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,5,nm0634240,director,\N,\N
+tt0372784,movie,Batman Begins,Batman Begins,8.3,1403919,1.1652527700000001E7,19,3,nm0913822,actor,\N,"[\"Ra's Al Ghul\"]"
