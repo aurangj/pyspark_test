@@ -10,9 +10,9 @@ to run code locally
 
 2) $SPARK_HOME/../bin/spark-submit --driver-memory 1g  --master local[4] movies.py
 
-3) to run on server ( executor memory will change base on data size on cluster)
+3) to run on server ( executor memory/ num_of_executor/ driver_memory can be changed accordingly on data size on cluster)
 
- $SPARK_HOME/../bin/spark-submit --driver-memory 1g  --executor-memory 2g --master local[4] movies.py
+ $SPARK_HOME/../bin/spark-submit --driver-memory 1g  --executor-memory 2g --master master_url --deploy_mode cluster --num-executors 4 movies.py
 
 
 
